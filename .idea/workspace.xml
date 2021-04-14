@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="243d165e-b0f6-4e77-92aa-7d36de888738" name="Default Changelist" comment="" />
+    <list default="true" id="243d165e-b0f6-4e77-92aa-7d36de888738" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/WChararter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/Watcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ext/AnimatedPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ext/InfiniteProgressPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frame/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/output/te.m4a.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/output/幸运儿.m4a.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/AliOssUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/FileTransJavaDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,6 +149,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
